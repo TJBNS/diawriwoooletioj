@@ -1,0 +1,109 @@
+#NoTrayIcon
+#InputLevel 1
+
+string := "abcdefghijklmnopqrstuvwxyz"
+
+q::
+Random, Var,1,26
+send, % SubStr(string, Var, 1)
+return
+w::
+Random, Var,1,26
+send, % SubStr(string, Var, 1)
+return
+e::
+Random, Var,1,26
+send, % SubStr(string, Var, 1)
+return
+r::
+Random, Var,1,26
+send, % SubStr(string, Var, 1)
+return
+t::
+Random, Var,1,26
+send, % SubStr(string, Var, 1)
+return
+y::
+Random, Var,1,26
+send, % SubStr(string, Var, 1)
+return
+u::
+Random, Var,1,26
+send, % SubStr(string, Var, 1)
+return
+i::
+Random, Var,1,26
+send, % SubStr(string, Var, 1)
+return
+o::
+Random, Var,1,26
+send, % SubStr(string, Var, 1)
+return
+p::
+Random, Var,1,26
+send, % SubStr(string, Var, 1)
+return
+a::
+Random, Var,1,26
+send, % SubStr(string, Var, 1)
+return
+s::
+Random, Var,1,26
+send, % SubStr(string, Var, 1)
+return
+d::
+Random, Var,1,26
+send, % SubStr(string, Var, 1)
+return
+f::
+Random, Var,1,26
+send, % SubStr(string, Var, 1)
+return
+g::
+Random, Var,1,26
+send, % SubStr(string, Var, 1)
+return
+h::
+Random, Var,1,26
+send, % SubStr(string, Var, 1)
+return
+j::
+Random, Var,1,26
+send, % SubStr(string, Var, 1)
+return
+k::
+Random, Var,1,26
+send, % SubStr(string, Var, 1)
+return
+l::
+Random, Var,1,26
+send, % SubStr(string, Var, 1)
+return
+z::
+Random, Var,1,26
+send, % SubStr(string, Var, 1)
+return
+x::
+Random, Var,1,26
+send, % SubStr(string, Var, 1)
+return
+c::
+Random, Var,1,26
+send, % SubStr(string, Var, 1)
+return
+v::
+Random, Var,1,26
+send, % SubStr(string, Var, 1)
+return
+b::
+Random, Var,1,26
+send, % SubStr(string, Var, 1)
+return
+n::
+Random, Var,1,26
+send, % SubStr(string, Var, 1)
+return
+m::
+Random, Var,1,26
+send, % SubStr(string, Var, 1)
+return
